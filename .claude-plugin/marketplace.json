@@ -1,0 +1,5 @@
+{
+  "name": "night-beach",
+  "owner": { "name": "jamieharper0798" },
+  "plugins": [{ "name": "night-beach", "source": "./" }]
+}
